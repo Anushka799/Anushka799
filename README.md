@@ -1,4 +1,4 @@
-<h1 align="center">I'm Anushka Gupta</h1>
+<h1 align="center">Hi, I'm Anushka Gupta</h1>
 <h3 align="center">Presently engaged in the pursuit of a master's degree at NIT Jalandhar, having concluded my undergraduate studies at Poornima Institute of engineering and technology. My area of expertise and passion is software development, underscored by my hands-on experience as a Project engineer at Wipro Technologies. I am ardently committed to continuous learning and aspire to contribute meaningfully to the ever-evolving landscape of technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushka799&label=Profile%20views&color=0e75b6&style=flat" alt="anushka799" /> </p>
